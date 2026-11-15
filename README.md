@@ -26,8 +26,9 @@ Ejecutar:
 bash
 java Main
 
-Equipo de trabajo
+Equipo de trabajo:
 
-Equipo 1
+Wilmar Said Cuervo
+Samuel Rosero Posada
 
 Proyecto académico: Catálogo de Películas.
